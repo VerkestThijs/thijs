@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KamersConsoleApp", "KamersConsoleApp\KamersConsoleApp.csproj", "{4EDA04D4-7EF9-4400-A9A6-0FAA1114161B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "kamersmodel", "kamersmodel\kamersmodel.csproj", "{215229AA-9D4E-4E58-8956-9DF2638B608C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4EDA04D4-7EF9-4400-A9A6-0FAA1114161B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4EDA04D4-7EF9-4400-A9A6-0FAA1114161B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4EDA04D4-7EF9-4400-A9A6-0FAA1114161B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4EDA04D4-7EF9-4400-A9A6-0FAA1114161B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{215229AA-9D4E-4E58-8956-9DF2638B608C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{215229AA-9D4E-4E58-8956-9DF2638B608C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{215229AA-9D4E-4E58-8956-9DF2638B608C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{215229AA-9D4E-4E58-8956-9DF2638B608C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9949616B-CACA-49B7-A3EB-F94A7A6B70C3}
+	EndGlobalSection
+EndGlobal

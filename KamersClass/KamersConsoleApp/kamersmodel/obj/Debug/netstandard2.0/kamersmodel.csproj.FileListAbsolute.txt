@@ -1,0 +1,9 @@
+C:\Users\thijs\source\repos\Nieuwe map\anaprog-kamers-tototeam\KamersClass\KamersConsoleApp\kamersmodel\bin\Debug\netstandard2.0\kamersmodel.deps.json
+C:\Users\thijs\source\repos\Nieuwe map\anaprog-kamers-tototeam\KamersClass\KamersConsoleApp\kamersmodel\bin\Debug\netstandard2.0\kamersmodel.dll
+C:\Users\thijs\source\repos\Nieuwe map\anaprog-kamers-tototeam\KamersClass\KamersConsoleApp\kamersmodel\bin\Debug\netstandard2.0\kamersmodel.pdb
+C:\Users\thijs\source\repos\Nieuwe map\anaprog-kamers-tototeam\KamersClass\KamersConsoleApp\kamersmodel\obj\Debug\netstandard2.0\kamersmodel.csprojAssemblyReference.cache
+C:\Users\thijs\source\repos\Nieuwe map\anaprog-kamers-tototeam\KamersClass\KamersConsoleApp\kamersmodel\obj\Debug\netstandard2.0\kamersmodel.csproj.CoreCompileInputs.cache
+C:\Users\thijs\source\repos\Nieuwe map\anaprog-kamers-tototeam\KamersClass\KamersConsoleApp\kamersmodel\obj\Debug\netstandard2.0\kamersmodel.AssemblyInfoInputs.cache
+C:\Users\thijs\source\repos\Nieuwe map\anaprog-kamers-tototeam\KamersClass\KamersConsoleApp\kamersmodel\obj\Debug\netstandard2.0\kamersmodel.AssemblyInfo.cs
+C:\Users\thijs\source\repos\Nieuwe map\anaprog-kamers-tototeam\KamersClass\KamersConsoleApp\kamersmodel\obj\Debug\netstandard2.0\kamersmodel.dll
+C:\Users\thijs\source\repos\Nieuwe map\anaprog-kamers-tototeam\KamersClass\KamersConsoleApp\kamersmodel\obj\Debug\netstandard2.0\kamersmodel.pdb

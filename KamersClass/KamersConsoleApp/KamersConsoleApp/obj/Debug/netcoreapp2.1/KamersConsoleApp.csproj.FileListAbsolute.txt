@@ -1,0 +1,14 @@
+C:\Users\thijs\source\repos\Nieuwe map\anaprog-kamers-tototeam\KamersClass\KamersConsoleApp\KamersConsoleApp\bin\Debug\netcoreapp2.1\KamersConsoleApp.deps.json
+C:\Users\thijs\source\repos\Nieuwe map\anaprog-kamers-tototeam\KamersClass\KamersConsoleApp\KamersConsoleApp\bin\Debug\netcoreapp2.1\KamersConsoleApp.runtimeconfig.json
+C:\Users\thijs\source\repos\Nieuwe map\anaprog-kamers-tototeam\KamersClass\KamersConsoleApp\KamersConsoleApp\bin\Debug\netcoreapp2.1\KamersConsoleApp.runtimeconfig.dev.json
+C:\Users\thijs\source\repos\Nieuwe map\anaprog-kamers-tototeam\KamersClass\KamersConsoleApp\KamersConsoleApp\bin\Debug\netcoreapp2.1\KamersConsoleApp.dll
+C:\Users\thijs\source\repos\Nieuwe map\anaprog-kamers-tototeam\KamersClass\KamersConsoleApp\KamersConsoleApp\bin\Debug\netcoreapp2.1\KamersConsoleApp.pdb
+C:\Users\thijs\source\repos\Nieuwe map\anaprog-kamers-tototeam\KamersClass\KamersConsoleApp\KamersConsoleApp\bin\Debug\netcoreapp2.1\kamersmodel.dll
+C:\Users\thijs\source\repos\Nieuwe map\anaprog-kamers-tototeam\KamersClass\KamersConsoleApp\KamersConsoleApp\bin\Debug\netcoreapp2.1\kamersmodel.pdb
+C:\Users\thijs\source\repos\Nieuwe map\anaprog-kamers-tototeam\KamersClass\KamersConsoleApp\KamersConsoleApp\obj\Debug\netcoreapp2.1\KamersConsoleApp.csprojAssemblyReference.cache
+C:\Users\thijs\source\repos\Nieuwe map\anaprog-kamers-tototeam\KamersClass\KamersConsoleApp\KamersConsoleApp\obj\Debug\netcoreapp2.1\KamersConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\thijs\source\repos\Nieuwe map\anaprog-kamers-tototeam\KamersClass\KamersConsoleApp\KamersConsoleApp\obj\Debug\netcoreapp2.1\KamersConsoleApp.AssemblyInfoInputs.cache
+C:\Users\thijs\source\repos\Nieuwe map\anaprog-kamers-tototeam\KamersClass\KamersConsoleApp\KamersConsoleApp\obj\Debug\netcoreapp2.1\KamersConsoleApp.AssemblyInfo.cs
+C:\Users\thijs\source\repos\Nieuwe map\anaprog-kamers-tototeam\KamersClass\KamersConsoleApp\KamersConsoleApp\obj\Debug\netcoreapp2.1\KamersConsoleApp.csproj.CopyComplete
+C:\Users\thijs\source\repos\Nieuwe map\anaprog-kamers-tototeam\KamersClass\KamersConsoleApp\KamersConsoleApp\obj\Debug\netcoreapp2.1\KamersConsoleApp.dll
+C:\Users\thijs\source\repos\Nieuwe map\anaprog-kamers-tototeam\KamersClass\KamersConsoleApp\KamersConsoleApp\obj\Debug\netcoreapp2.1\KamersConsoleApp.pdb
